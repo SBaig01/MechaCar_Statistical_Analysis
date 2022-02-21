@@ -14,5 +14,5 @@ The slope is NOT considered to be zero as the p-value is significant i.e. <0.05.
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 The multiple r-squared value is 0.7149 (see details below)
 
-![Stats Summary}(https://github.com/SBaig01/MechaCar_Statistical_Analysis/blob/1cb0e521b67fe303df807d727a3768cfee50e2f3/mecha_mpg%20Summarylm.png)
+![Stats Summary](https://github.com/SBaig01/MechaCar_Statistical_Analysis/blob/1cb0e521b67fe303df807d727a3768cfee50e2f3/mecha_mpg%20Summarylm.png)
 
