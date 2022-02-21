@@ -42,3 +42,18 @@ The total mean of the sample dataset is **1498.78** and the p-value for the stat
 3) Lot3:The total mean of Lot3 is **1492.4** and the p-value for the statistical significance testing is **0.04**. Since the p-value is not less than 0.05, we cannot reject the null hypothesis and assume that there is **no statistical difference** between the sample mean and the population mean.
 
    ![Lots t-test](https://github.com/SBaig01/MechaCar_Statistical_Analysis/blob/59ed18c7b609d0dd1026d4478300ae0fdaf689ee/Lot%20t-test.png)
+
+## Study Design: MechaCar vs Competition
+Consumer are interested in purchasing reliable cars that not only cost less on maintenance but have less trips to the mechanic each year. The proposed study compares the average number of trips to the mechanic between MechaCar and Competition. 
+
+### What metric or metrics are you going to test?
+The mean number of trips to the mechanic each year.
+
+### What is the null hypothesis or alternative hypothesis?
+The null hypothesis is that there is no difference in the number of trips each year between MechaCar and Competition.
+
+### What statistical test would you use to test the hypothesis? And why?
+We would use a **Two-Sample t-Test** to perform this analysis as the metric being collected is **Numerical** in nature. Since the trips would be either 1, 2, 3, etc... Also, since the trips are spaced out evenly on a scale, we could consider the data to be **Interval**.
+
+### What data is needed to run the statistical test?
+We would need to randomly select a sufficient sample of data. Once sampled, we will need the **Number of Trips to the Mechanic** as well as the year the trip was undertaken to group (or stratisfy) the results data across different model years.
