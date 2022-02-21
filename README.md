@@ -41,4 +41,4 @@ The total mean of the sample dataset is **1498.78** and the p-value for the stat
 2) Lot2:The total mean of Lot2 is **1499.4** and the p-value for the statistical significance testing is **0.60**. Since the p-value is not less than 0.05, we cannot reject the null hypothesis and assume that there is **no statistical difference** between the sample mean and the population mean.
 3) Lot3:The total mean of Lot3 is **1492.4** and the p-value for the statistical significance testing is **0.04**. Since the p-value is not less than 0.05, we cannot reject the null hypothesis and assume that there is **no statistical difference** between the sample mean and the population mean.
 
-  ![Lots t-test](https://github.com/SBaig01/MechaCar_Statistical_Analysis/blob/59ed18c7b609d0dd1026d4478300ae0fdaf689ee/Lot%20t-test.png)
+   ![Lots t-test](https://github.com/SBaig01/MechaCar_Statistical_Analysis/blob/59ed18c7b609d0dd1026d4478300ae0fdaf689ee/Lot%20t-test.png)
