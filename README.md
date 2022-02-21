@@ -29,3 +29,4 @@ Based on the Individual Lots data (see below), **Lot1 and Lot2** variance are **
 
 ![Lot Summary](https://github.com/SBaig01/MechaCar_Statistical_Analysis/blob/d6c66cc9e314491c85ca56c80dfbb9e79a23f655/Lot%20Summary.png)
 
+## T-Tests on Suspension Coils
