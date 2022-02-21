@@ -25,6 +25,6 @@ Based on the Total Summary (see below), when all lots data is combined, the vari
 ![Total Summary](https://github.com/SBaig01/MechaCar_Statistical_Analysis/blob/d6c66cc9e314491c85ca56c80dfbb9e79a23f655/Total%20Summary.png)
 
 ### Lots Individually - Does the current manufacturing data meet this design specification?
-Based on the Individual Lots data (see below), **Lot 1 and Lot 2** variance are **within the design specification** while the **Lot 3** variance is **NOT**. 
+Based on the Individual Lots data (see below), **Lot1 and Lot2** variance are **within the design specification** while the **Lot3** variance is **NOT**. 
 
 ![Lot Summary](https://github.com/SBaig01/MechaCar_Statistical_Analysis/blob/d6c66cc9e314491c85ca56c80dfbb9e79a23f655/Lot%20Summary.png)
