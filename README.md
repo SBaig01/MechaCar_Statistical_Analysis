@@ -56,4 +56,4 @@ The null hypothesis is that there is no difference in the number of trips each y
 We would use a **Two-Sample t-Test** to perform this analysis as the metric being collected is **Numerical** in nature. Since the trips would be either 1, 2, 3, etc... Also, since the trips are spaced out evenly on a scale, we could consider the data to be **Interval**.
 
 ### What data is needed to run the statistical test?
-We would need to randomly select a sufficient sample of data. Once sampled, we will need the **Number of Trips to the Mechanic** as well as the year the trip was undertaken to group (or stratisfy) the results data across different model years.
+We would need to randomly select a sufficient sample of data. Once sampled, we will need the **Number of Trips to the Mechanic** as well as the year the trip was undertaken to group (or stratify) the results data across different model years.
