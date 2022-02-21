@@ -33,6 +33,7 @@ Based on the Individual Lots data (see below), **Lot1 and Lot2** variance are **
 
 ### Lots in Total
 The total mean of the sample dataset is **1498.78** and the p-value for the statistical significance testing is **0.06**. Since the p-value is not less than 0.05, we cannot reject the null hypothesis and assume that there is **no statistical difference** between the sample mean and the population mean.
+
   ![Total t-test](https://github.com/SBaig01/MechaCar_Statistical_Analysis/blob/59ed18c7b609d0dd1026d4478300ae0fdaf689ee/One%20Sample%20t-test.png)
 
 ### Lots Individually
